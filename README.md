@@ -1,6 +1,8 @@
 eslint-plugin-react-native-globals
 ==================================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/satya164/eslint-plugin-react-native-globals.svg)](https://greenkeeper.io/)
+
 ESLint Environment for React Native.
 
 ## Installation
