@@ -20,6 +20,7 @@ const globals = {
   global: false,
   Map: true,
   module: false,
+  navigator: false,
   process: false,
   Promise: true,
   requestAnimationFrame: true,
