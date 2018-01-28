@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-react-native-globals",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "ESLint Environment for React Native",
   "main": "index.js",
   "files": [

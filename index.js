@@ -3,7 +3,6 @@ const globals = {
   __dirname: false,
   alert: false,
   Blob: false,
-  WebSocket: false,
   cancelAnimationFrame: false,
   cancelIdleCallback: false,
   clearImmediate: true,
@@ -31,6 +30,7 @@ const globals = {
   setImmediate: true,
   setInterval: false,
   setTimeout: false,
+  WebSocket: false,
   window: false,
   XMLHttpRequest: false,
 };
