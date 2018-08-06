@@ -18,6 +18,7 @@ const globals = {
   FileReader: false,
   FormData: false,
   global: false,
+  Headers: false,
   Map: true,
   module: false,
   navigator: false,
